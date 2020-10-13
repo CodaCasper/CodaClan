@@ -1,2 +1,3 @@
 # CodaClan
-A gaming clam
+A gaming clan
+
